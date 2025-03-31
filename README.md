@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ludopiz
+- 👀 I’m interested in Data Science, Finance, Logistics and Supply chain
+- 🌱 I’m currently learning Data Science, machine learning and AI
+- 💞️ My hobbies are Photography, trekking, Reading and watching movies
